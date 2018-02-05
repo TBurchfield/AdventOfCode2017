@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# Programming challenge, for which the prompt is:
+# http://adventofcode.com/2017/day/24
+
 import sys
 
 def rest_of(path, visited, comps, strength):
